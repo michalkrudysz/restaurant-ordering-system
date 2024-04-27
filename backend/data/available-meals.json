@@ -1,142 +1,142 @@
 [
   {
     "id": "m1",
-    "name": "Mac & Cheese",
+    "name": "Makaron z serem",
     "price": "8.99",
-    "description": "Creamy cheddar cheese mixed with perfectly cooked macaroni, topped with crispy breadcrumbs. A classic comfort food.",
+    "description": "Kremowy ser cheddar wymieszany z idealnie ugotowanym makaronem, posypany chrupiącą panierką. Klasyczne, pocieszające danie.",
     "image": "images/mac-and-cheese.jpg"
   },
   {
     "id": "m2",
-    "name": "Margherita Pizza",
+    "name": "Pizza Margherita",
     "price": "12.99",
-    "description": "A classic pizza with fresh mozzarella, tomatoes, and basil on a thin and crispy crust.",
+    "description": "Klasyczna pizza z świeżą mozzarellą, pomidorami i bazylią na cienkim i chrupiącym cieście.",
     "image": "images/margherita-pizza.jpg"
   },
   {
     "id": "m3",
-    "name": "Caesar Salad",
+    "name": "Sałatka Cezar",
     "price": "7.99",
-    "description": "Romaine lettuce tossed in Caesar dressing, topped with croutons and parmesan shavings.",
+    "description": "Sałata rzymska polana sosem Cezar, posypana grzankami i płatkami parmezanu.",
     "image": "images/caesar-salad.jpg"
   },
   {
     "id": "m4",
     "name": "Spaghetti Carbonara",
     "price": "10.99",
-    "description": "Al dente spaghetti with a creamy sauce made from egg yolk, pecorino cheese, pancetta, and pepper.",
+    "description": "Al dente spaghetti z kremowym sosem przygotowanym z żółtka jaja, sera pecorino, pancetty i pieprzu.",
     "image": "images/spaghetti-carbonara.jpg"
   },
   {
     "id": "m5",
-    "name": "Veggie Burger",
+    "name": "Burger wegetariański",
     "price": "9.99",
-    "description": "A juicy veggie patty served on a whole grain bun with lettuce, tomato, and a tangy sauce.",
+    "description": "Soczysta kotlet wegetariański podawany w pełnoziarnistej bułce z sałatą, pomidorem i pikantnym sosem.",
     "image": "images/veggie-burger.jpg"
   },
   {
     "id": "m6",
-    "name": "Grilled Chicken Sandwich",
+    "name": "Kanapką z grillowanym kurczakiem",
     "price": "10.99",
-    "description": "Tender grilled chicken breast with avocado, bacon, lettuce, and honey mustard on a toasted bun.",
+    "description": "Delikatna pierś z kurczaka z grilla z awokado, boczkiem, sałatą i miodową musztardą w opiekanym bułce.",
     "image": "images/grilled-chicken-sandwich.jpg"
   },
   {
     "id": "m7",
-    "name": "Steak Frites",
+    "name": "Stek z frytkami",
     "price": "17.99",
-    "description": "Succulent steak cooked to your preference, served with crispy golden fries and herb butter.",
+    "description": "Soczysty stek przygotowany według Twojego życzenia, podawany z chrupiącymi, złocistymi frytkami i masłem ziołowym.",
     "image": "images/steak-frites.jpg"
   },
   {
     "id": "m8",
-    "name": "Sushi Roll Platter",
+    "name": "Talerz Sushi Roll",
     "price": "15.99",
-    "description": "An assortment of fresh sushi rolls including California, Spicy Tuna, and Eel Avocado.",
+    "description": "Zestaw świeżych rolek sushi, w tym California, pikantny tuńczyk i węgorz z awokado.",
     "image": "images/sushi-roll-platter.jpg"
   },
   {
     "id": "m9",
-    "name": "Chicken Curry",
+    "name": "Kurczak Curry",
     "price": "13.99",
-    "description": "Tender pieces of chicken simmered in a rich and aromatic curry sauce, served with basmati rice.",
+    "description": "Delikatne kawałki kurczaka duszone w bogatym i aromatycznym sosie curry, podawane z ryżem basmati.",
     "image": "images/chicken-curry.jpg"
   },
   {
     "id": "m10",
-    "name": "Vegan Buddha Bowl",
+    "name": "Miska Buddy dla Wegan",
     "price": "11.99",
-    "description": "A hearty bowl filled with quinoa, roasted veggies, avocado, and a tahini dressing.",
+    "description": "Sycąca miska wypełniona komosą ryżową, pieczonymi warzywami, awokado i sosem tahini.",
     "image": "images/vegan-buddha-bowl.jpg"
   },
   {
     "id": "m11",
-    "name": "Seafood Paella",
+    "name": "Paella z Owocami Morza",
     "price": "19.99",
-    "description": "A Spanish delicacy filled with saffron-infused rice, shrimp, mussels, and chorizo.",
+    "description": "Hiszpański przysmak z ryżem zaprawionym szafranem, krewetkami, małżami i chorizo.",
     "image": "images/seafood-paella.jpg"
   },
   {
     "id": "m12",
-    "name": "Pancake Stack",
+    "name": "Stos Naleśników",
     "price": "8.99",
-    "description": "Fluffy pancakes stacked high, drizzled with maple syrup and topped with fresh berries.",
+    "description": "Puszyste naleśniki ułożone w stos, polane syropem klonowym i udekorowane świeżymi owocami.",
     "image": "images/pancake-stack.jpg"
   },
   {
     "id": "m13",
-    "name": "Miso Ramen",
+    "name": "Ramen Miso",
     "price": "12.99",
-    "description": "A warming bowl of ramen with miso broth, tender pork, soft-boiled egg, and green onions.",
+    "description": "Rozgrzewająca miska ramenu z bulionem miso, miękką wieprzowiną, jajkiem na miękko i zieloną cebulką.",
     "image": "images/miso-ramen.jpg"
   },
   {
     "id": "m14",
-    "name": "Beef Tacos",
+    "name": "Tacos z Wołowiną",
     "price": "9.99",
-    "description": "Three soft tortillas filled with seasoned beef, fresh salsa, cheese, and sour cream.",
+    "description": "Trzy miękkie tortille wypełnione przyprawioną wołowiną, świeżą salsą, serem i śmietaną.",
     "image": "images/beef-tacos.jpg"
   },
   {
     "id": "m15",
-    "name": "Chocolate Brownie",
+    "name": "Brownie Czekoladowe",
     "price": "5.99",
-    "description": "A rich and fudgy brownie, topped with a scoop of vanilla ice cream and chocolate sauce.",
+    "description": "Bogate i ciągnące brownie, przykryte gałką lodów waniliowych i polewą czekoladową.",
     "image": "images/chocolate-brownie.jpg"
   },
   {
     "id": "m16",
-    "name": "Lobster Bisque",
+    "name": "Zupa Bisque z Homara",
     "price": "14.99",
-    "description": "A creamy soup made from lobster stock, aromatic vegetables, and a touch of brandy.",
+    "description": "Kremowa zupa przygotowana na bazie bulionu z homarów, aromatycznych warzyw i odrobiny brandy.",
     "image": "images/lobster-bisque.jpg"
   },
   {
     "id": "m17",
-    "name": "Mushroom Risotto",
+    "name": "Risotto z Grzybami",
     "price": "13.99",
-    "description": "Creamy Arborio rice cooked with a medley of wild mushrooms and finished with parmesan.",
+    "description": "Kremowe risotto z ryżu Arborio z mieszanką dzikich grzybów, zwieńczone parmezanem.",
     "image": "images/mushroom-risotto.jpg"
   },
   {
     "id": "m18",
-    "name": "Eggplant Parmesan",
+    "name": "Parmigiana z Bakłażana",
     "price": "11.99",
-    "description": "Layers of breaded eggplant, marinara sauce, and melted mozzarella and parmesan cheeses.",
+    "description": "Warstwy panierowanego bakłażana, sosu marinara oraz roztopionego sera mozzarella i parmezan.",
     "image": "images/eggplant-parmesan.jpg"
   },
   {
     "id": "m19",
-    "name": "Lemon Cheesecake",
+    "name": "Sernik Cytrynowy",
     "price": "6.99",
-    "description": "A creamy cheesecake with a tangy lemon flavor, served on a crumbly biscuit base.",
+    "description": "Kremowy sernik o wyrazistym smaku cytrynowym, podany na kruchym spodzie z ciasteczek.",
     "image": "images/lemon-cheesecake.jpg"
   },
   {
     "id": "m20",
-    "name": "Falafel Wrap",
+    "name": "Wrap z Falafelami",
     "price": "8.99",
-    "description": "Crispy falafels wrapped in a warm pita with lettuce, tomatoes, and a tahini sauce.",
+    "description": "Chrupiące falafele zawinięte w ciepłą pity z sałatą, pomidorami i sosem tahini.",
     "image": "images/falafel-wrap.jpg"
   }
 ]
