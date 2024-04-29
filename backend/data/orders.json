@@ -1,1 +1,30 @@
-[]
+[
+  {
+    "items": [
+      {
+        "id": "m2",
+        "name": "Pizza Margherita",
+        "price": "12.99",
+        "description": "Klasyczna pizza z świeżą mozzarellą, pomidorami i bazylią na cienkim i chrupiącym cieście.",
+        "image": "images/margherita-pizza.jpg",
+        "quantity": 1
+      },
+      {
+        "id": "m3",
+        "name": "Sałatka Cezar",
+        "price": "7.99",
+        "description": "Sałata rzymska polana sosem Cezar, posypana grzankami i płatkami parmezanu.",
+        "image": "images/caesar-salad.jpg",
+        "quantity": 2
+      }
+    ],
+    "customer": {
+      "name": "asddasasd",
+      "email": "allegro@drontrzebownisko.pl",
+      "street": "dsaads",
+      "postal-code": "232",
+      "city": "dsaasd"
+    },
+    "id": "720.1782529582061"
+  }
+]
